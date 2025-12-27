@@ -34,4 +34,4 @@ nonebot-plugin-nerdle-help = ["nonebot_plugin_nerdle_help"]
 
 ## 其他说明
 
-`/nonebot_plugin_nerdle_help/equals` 下的文件生成，请参考 https://github.com/Lovable-xlz/nonebot_plugin_nerdle 仓库中的 `cpp` 文件。
+关于 `/nonebot_plugin_nerdle_help/equals` 下的文件生成，请参考 https://github.com/Lovable-xlz/nonebot_plugin_nerdle 仓库中的 `cpp` 文件。
