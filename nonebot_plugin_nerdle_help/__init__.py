@@ -20,7 +20,7 @@ with contextlib.suppress(Exception):
         description="nerdle游戏小助手",
         usage="输入格式形如 s1 + !s2 + ?s3（中间不含空格），其中 s1 为待猜测等式（由0-9+-*/=和 _ 构成、_ 表示未确定字符），s2 为不包含的字符，s3 为包含但未确定位置（出现在 _ 上）的字符，在等式库内进行匹配并返回符合等式\n!s2、?s3 部分均为可选项\ns3 中允许字符出现多次，按出现次数进行匹配",
         type="application",
-        homepage="?",
+        homepage="https://github.com/Lovable-xlz/nonebot_plugin_nerdle_help",
         supported_adapters={"~onebot.v11"},
         extra={
             'author':   'Haitang0520',
@@ -28,3 +28,4 @@ with contextlib.suppress(Exception):
             'priority': 10,
         }
     )
+
