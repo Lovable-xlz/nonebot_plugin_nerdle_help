@@ -1,0 +1,6 @@
+[project]
+name = "nerdle-help"
+version = "0.0.1"
+
+[build-system]
+requires = ["setuptools", "wheel"]
