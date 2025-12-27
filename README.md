@@ -22,7 +22,7 @@ nonebot-plugin-nerdle-help = ["nonebot_plugin_nerdle_help"]
 
 ## 使用教程
 
-搭配插件 (https://github.com/Lovable-xlz/nonebot_plugin_nerdle)[https://github.com/Lovable-xlz/nonebot_plugin_nerdle] 一起食用效果最佳！
+搭配插件 https://github.com/Lovable-xlz/nonebot_plugin_nerdle 一起食用效果最佳！
 
 输入格式形如 `s1` + `!s2` + `?s3`：
 
@@ -34,4 +34,4 @@ nonebot-plugin-nerdle-help = ["nonebot_plugin_nerdle_help"]
 
 ## 其他说明
 
-`/nonebot_plugin_nerdle_help/equals` 下的文件生成，请参考 (nerdle 插件)[https://github.com/Lovable-xlz/nonebot_plugin_nerdle] 仓库中的 `cpp` 文件。
+`/nonebot_plugin_nerdle_help/equals` 下的文件生成，请参考 https://github.com/Lovable-xlz/nonebot_plugin_nerdle 仓库中的 `cpp` 文件。
